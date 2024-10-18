@@ -25,9 +25,11 @@
             "id": "8ef43df24f0f7bbf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "T3A3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
