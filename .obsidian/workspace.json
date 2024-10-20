@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ef43df24f0f7bbf",
+  "active": "dfb2d85bd1bac98b",
   "lastOpenFiles": [
     "T3A3.md"
   ]
