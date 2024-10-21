@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "T3A3.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -160,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2f2f200b626fec2",
+  "active": "dfb2d85bd1bac98b",
   "lastOpenFiles": [
     "web-dev-list.png",
     "T3A3.md"
